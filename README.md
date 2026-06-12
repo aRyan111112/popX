@@ -44,7 +44,12 @@ PopX is a React + Vite landing-style authentication UI that guides users through
 ```bash
 src/
   components/
+    Input.jsx
   pages/
+    AccountScreen.jsx
+    SignIn.jsx
+    SignUp.jsx
+    WelcomeScreen.jsx
   App.jsx
   main.jsx
 ```
